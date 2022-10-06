@@ -7,4 +7,4 @@ git push <remote> --tags
 git pull
 
 git checkout -b [branch name]
-git checkout [branch name]
+git switch [branch name]
